@@ -2,7 +2,7 @@
 title: Lucas REMOND
 email: lucas.remond@hotmail.com
 url: https://example.github.io
-description: "Welcome to my site. I'm Lucas REMOND and here is my blog where i post my recipes. I hope you are going to like it and don't hesitate to contact me if you have any reports or question about my page ! Thak you"
+description: "Welcome to my site. I'm Lucas REMOND and here is my blog where i post my recipes. I hope you are going to like it and don't hesitate to contact me if you have any reports or question about my page ! Thank you"
 keywords: "Ambition, Precision, Creativity"
 skills: "Pastry guy, Cooking lover, Chemist"
 meta_author: Remond Lucas
@@ -39,7 +39,7 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Instagram
+  - title: instagram
     url: https://www.instagram.com/lucasremond/
   - title: facebook
     url: https://www.facebook.com/lucas.remond.3
@@ -54,7 +54,7 @@ address:
   - line: Lyon FRANCE 69002
 
 # Credits content
-credits: ''
+credits: "Site réalisé par Lucas REMOND"
 
 # Build settings
 markdown: kramdown
