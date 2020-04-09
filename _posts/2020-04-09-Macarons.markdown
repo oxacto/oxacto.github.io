@@ -1,12 +1,32 @@
 ---
-layout: default
+layout: style
 modal-id: 1
 date: 2020-04-09
 img: macarons.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+client: Lucas REMOND
+category: Pastry
+description: "Ingrédients:- 650 g de poudre d'amande
+                       - 650 g de sucre glace
+                       - 600 g de sucre
+                       - 200 g d'eau
+                       - 250 + 250 g de blanc d'œufs
+
+     Réalisation de la pâte d'amande:
+- Tamiser et mélanger le sucre glace et la poudre d'amande.
+- Ajouter le reste des blancs dans le melange aux amandes.
+
+    c  Rélisation de la meringue italienne:
+- Hémucter le sucre avec les 200 g d'eau puis cuire afin d'obtenir un sirop ( 121°C).
+- Commencer a monter une partie des blancs en neige, puis continuer en ajoutant delicatement le sirop de sucre.
+- Laissez refroidir en laissant le robot tourner. 
+- Ajouter le colorant.
+
+    Macaronnage:
+- Ajouter la meringue italienne à la pâte d'amande très délicatement.
+- Pocher les macarons.
+- laisser reposer 1h à température ambiante afin qu'une fine pélicule légèrement maléable mais rigide se forme.
+- Cuire 25-30 min à 150°C . Laisser refroidir quelques minutes puis garnir."
 
 ---
