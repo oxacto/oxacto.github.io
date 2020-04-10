@@ -43,14 +43,14 @@ social:
     url: https://www.instagram.com/lucasremond/
   - title: facebook
     url: https://www.facebook.com/lucas.remond.3
-  - title: Linkedin
+  - title: linkedin
     url: https://www.linkedin.com/in/lucas-remond-796886198/
-  - title: TalentToday
+  - title: heart
     url: https://app.talentoday.com/users/lucas-remond/profile/last/myti/personality
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 7 rue Victo Hugo
+  - line: 8 rue Victo Hugo
   - line: Lyon FRANCE 69002
 
 # Credits content
